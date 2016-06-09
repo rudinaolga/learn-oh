@@ -1,3 +1,2 @@
 import oskorblenie
-
-print('nu ty cho')
+sys.write('Nu ty chooo')
